@@ -1,7 +1,7 @@
 # @atxmtx/identify
 
-[![npm](https://flat.badgen.net/npm/@atxmtx/license/atom-identify)](https://www.npmjs.org/package/atom-identify)
-[![npm](https://flat.badgen.net/npm/@atxmtx/v/atom-identify)](https://www.npmjs.org/package/atom-identify)
+[![npm](https://flat.badgen.net/npm/license/@atxmtx/identify)](https://www.npmjs.org/package/@atxmtx/identify)
+[![npm](https://flat.badgen.net/npm/v/@atxmtx/identify)](https://www.npmjs.org/package/@atxmtx/identify)
 [![CircleCI](https://flat.badgen.net/circleci/github/atxmtx/identify)](https://circleci.com/gh/atxmtx/identify)
 [![David](https://flat.badgen.net/david/dep/atxmtx/identify)](https://david-dm.org/atxmtx/identify)
 
@@ -9,7 +9,7 @@ Adds data attributes for editor and pane IDs to the respective HTML element
 
 ## Installation
 
-`npm install atom-identify -S`
+`npm install @atxmtx/identify -S`
 
 ## Usage
 
