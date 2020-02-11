@@ -38,7 +38,3 @@ module.exports =
 ## License
 
 This work is dual-licensed under [The MIT License](https://opensource.org/licenses/MIT) and the [GNU General Public License, version 2.0](https://opensource.org/licenses/GPL-2.0)
-
-## Donate
-
-You are welcome to support this project using [Flattr](https://flattr.com/submit/auto?user_id=atxmtx&url=https://github.com/atxmtx/identify) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
