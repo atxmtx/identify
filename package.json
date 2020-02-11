@@ -1,8 +1,8 @@
 {
-  "name": "atom-identify",
-  "version": "0.2.0",
+  "name": "@atxmtx/identify",
+  "version": "0.0.0",
   "description": "Adds data attributes for editor and pane IDs to the respective HTML element",
-  "license": "MIT",
+  "license": "MIT OR GPL-2.0",
   "scripts": {
     "build": "tsc --pretty --project ./",
     "dev": "tsc --watch --pretty --project ./",
@@ -12,7 +12,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/idleberg/node-atom-identify.git"
+    "url": "https://github.com/atxmtx/identify.git"
   },
   "keywords": [
     "atom",
