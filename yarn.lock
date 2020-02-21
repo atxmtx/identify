@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@atxmtx/developer-console@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@atxmtx/developer-console/-/developer-console-0.1.0.tgz#3072dff5f0323db0bea28f67dc426e0c0f3f05c5"
+  integrity sha512-BEVKUEjvzn5kUukCQiAZy2qDnWIrCh4F5/w2WMFrnv1QIvPy4Xshiu8Hy2+G3Rtccy5pApy2QLkpv1Xsz9dkLA==
+
 "@babel/code-frame@^7.0.0":
   version "7.8.3"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.8.3.tgz#33e25903d7481181534e12ec0a25f16b6fcf419e"
