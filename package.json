@@ -19,10 +19,10 @@
     "atom package"
   ],
   "dependencies": {
-    "@atxmtx/developer-console": "^0.1.0",
-    "@types/atom": "^1.36.2"
+    "@atxmtx/developer-console": "^0.1.0"
   },
   "devDependencies": {
+    "@types/atom": "^1.36.2",
     "@types/node": "^13.7.0",
     "husky": "^4.2.1",
     "tslint": "^6.0.0",
