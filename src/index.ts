@@ -25,7 +25,7 @@ function addEditorID(editor): void {
 
     if (buffer.id && !view.getAttribute('data-buffer-id')) {
       log(`${meta}: Add data-attribute for buffer #${buffer.id}`);
-      view.setAttribute('data-buffer-id', editor.id);
+      view.setAttribute('data-buffer-id', buffer.id);
     }
   }
 }
