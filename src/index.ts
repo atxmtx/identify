@@ -5,12 +5,13 @@ import { log } from '@atxmtx/developer-console';
 
 function initIDs(): void {
   const editors = atom.workspace.getTextEditors();
-  atom.workspace.observeTextEditors(editor => addEditorID(editor));
   editors.map(editor => addEditorID(editor));
 
   const panes = atom.workspace.getPanes();
-  atom.workspace.observePanes(pane => addPaneID(pane));
   panes.map(pane => addPaneID(pane));
+
+  atom.workspace.observeTextEditors(editor => addEditorID(editor));
+  atom.workspace.observePanes(pane => addPaneID(pane));
 }
 
 function addEditorID(editor): void {
