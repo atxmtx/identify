@@ -1,7 +1,7 @@
 'use strict';
 
-const meta = '@atxmtx/identify';
-import { log } from '@atxmtx/developer-console';
+const meta = '@atxm/identify';
+import { log } from '@atxm/developer-console';
 
 function initIDs(): void {
   const editors = atom.workspace.getTextEditors();
